@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aplicacion3</string>
+    <string name="rojo">ROJO</string>
+    <string name="verde">VERDE</string>
+    <string name="azul">AZUL</string>
+    <string name="paginaWeb" translatable="false">https://www.google.com</string>
+    <string-array name="lista">
+        <item>Elemento uno</item>
+        <item>Elemento dos</item>
+        <item>Elemento tres</item>
+    </string-array>
+</resources>
